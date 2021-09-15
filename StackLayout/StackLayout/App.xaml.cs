@@ -10,7 +10,7 @@ namespace StackLayout
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new StackLayout2();
         //here just change the mainpage to stacklayout2 if you want to run the stacklayout2
         }
 
